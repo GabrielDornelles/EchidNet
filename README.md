@@ -1,5 +1,5 @@
 # EchidNet
-## ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🦋A LightWeight Neural Net to recognize text from documents 🦋
+## ⠀⠀⠀⠀🦋A LightWeight Neural Net to recognize text from documents 🦋
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![tumblr_3e89ca371a91ed92e7b8027706474753_1513ab08_640](https://user-images.githubusercontent.com/56324869/109408789-9c8ed500-796b-11eb-933c-fc434784b63b.gif)
 
 --------------------------------------------------------------------
