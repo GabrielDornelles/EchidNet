@@ -10,3 +10,7 @@ EchidNet is highly inspired on the simple yet good LeNet-5 (LeCun, L. Bottou, Y.
 EchidNet has a total of 20.007 parameters and it takes only 83.8kB on disk.
 
 Latency: around 0.65ms on Cuda.
+
+## Further work:
+- Train with larger dataset including diversity of text fonts.
+- Add RNN + CTC Loss to avoid computation on detecting and marking character area.
